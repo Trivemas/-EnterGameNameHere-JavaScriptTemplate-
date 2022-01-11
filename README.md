@@ -1,3 +1,3 @@
-# My Game is Cool!
+# java basics
 
-Make sure you give it a good description here...
+the basics again, then we might do somthing cool, idk if that will be in another file.
