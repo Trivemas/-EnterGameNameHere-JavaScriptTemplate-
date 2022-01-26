@@ -46,13 +46,13 @@ agesAndNames.forEach((n) => {
 
 let twelveAndUnder = tableOneAges.filter((n) => n < 13);
 
-if(twelveAndUnder){
+if (twelveAndUnder) {
 	//do this if condition 1 is truthy (true)
-} else if(dolla){
+} else if (dolla) {
 	//do this if conditition 2 is truthy (true)
-} else(twelveAndUnder){
-	//do this if condition 1 is falsey (false) 
-};
+} else {
+	//do this if condition 1 is falsey (false)
+}
 
 /*
 Equality == (not recommended if you need it to be exact)
